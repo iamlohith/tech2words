@@ -1,1 +1,1 @@
-hello this repo is contains realated to tech2words website. In this webiste will provide usefull tech info and tips.
+this project aims to provide usefull info and tips.
